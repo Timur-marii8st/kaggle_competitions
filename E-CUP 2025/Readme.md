@@ -2,8 +2,8 @@
 
 ### This is more light version of my ideas)
 
-**This code implements a simple recommendation system for the Ozon platform based on historical data (interaction tracker, orders, items, and categories). It:
-**
+**This code implements a simple recommendation system for the Ozon platform based on historical data (interaction tracker, orders, items, and categories). It:**
+
 Loads and processes data, filtering popular items and determining time frames for train/val.
 
 Builds interaction matrices and trains models: ALS for collaborative filtering, BM25 for item-to-item, Annoy for embedding search.
